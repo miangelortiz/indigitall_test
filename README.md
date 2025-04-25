@@ -3,19 +3,18 @@
 This is a RESTful API built with Node.js and Express for user management. It includes functions such as creating, updating, deleting and listing users, along with Swagger documentation for easy API exploration.
 
 ## 📑 Table of Contents
-- [Features](#features)  
-- [Prerequisites](#prerequisites)  
-- [Getting Started](#getting-started)  
-- [Running the Application](#running-the-application)  
-- [API Documentation](#api-documentation)  
-- [Project Structure](#project-structure)  
-- [Scripts](#scripts)  
-- [Dependencies](#dependencies)  
-  - [Main Dependencies](#main-dependencies) 
+- [Features](#-features)  
+- [Prerequisites](#️-prerequisites)  
+- [Getting Started](#-getting-started)  
+- [Running the Application](#️-running-the-application)  
+- [API Documentation](#-api-documentation)  
+- [Project Structure](#️-project-structure)   
+- [Scripts](#-scripts)  
+- [Dependencies](#-dependencies)  
+  - [Main Dependencies](#main-dependencies)  
   - [Dev Dependencies](#dev-dependencies)  
-- [Logging](#logging)  
-- [License](#license)  
-- [Contact](#contact)  
+- [Logging](#-logging)  
+- [Contact](#-contact)  
 
 ---
 
@@ -154,12 +153,6 @@ http://localhost:3000/api-docs
 ## 📝 Logging
 
 Uses Winston. Logs output to console and `logs/` directory.  
-
----
-
-## ⚖️ License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.  
 
 ---
 
