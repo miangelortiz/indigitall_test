@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Data folder
+data/
+
+# Environment variables
+.env
+
+# Ignore package-lock.json
+package-lock.json
